@@ -1,0 +1,21 @@
+18:57:05,350 DEBUG devpinoyLogger:62 - Config file loaded !!!
+18:57:05,358 DEBUG devpinoyLogger:77 - OR file loaded !!!
+18:57:15,436 DEBUG devpinoyLogger:126 - Navigated to : http://www.zoho.com/
+18:57:18,535 DEBUG devpinoyLogger:155 - Clicking on an Element : loginlink_CSS
+18:57:19,355 DEBUG devpinoyLogger:169 - Typing in an Element : email_CSS entered value as : trainer@way2automation.com
+18:57:19,711 DEBUG devpinoyLogger:169 - Typing in an Element : password_CSS entered value as : Selenium@123
+18:57:19,900 DEBUG devpinoyLogger:155 - Clicking on an Element : signbtn_CSS
+18:57:20,362 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("es_ES", UTF-8, parsed); will try to load it.
+18:57:20,363 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_es_ES.ftl"): Not found
+18:57:20,365 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_es.ftl"): Not found
+18:57:20,366 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:57:20,367 DEBUG cache:45 - Loading template for "Extent.ftl"("es_ES", UTF-8, parsed) from "jar:file:/C:/Users/karlo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:57:35,317 DEBUG devpinoyLogger:155 - Clicking on an Element : crmlink_CSS
+18:57:35,588 DEBUG devpinoyLogger:155 - Clicking on an Element : accountstab_XPATH
+18:57:37,416 DEBUG devpinoyLogger:155 - Clicking on an Element : createaccountbtn_XPATH
+18:57:38,644 DEBUG devpinoyLogger:169 - Typing in an Element : accountname_XPATH entered value as : Raman
+18:57:39,261 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("es_ES", UTF-8, parsed); will try to load it.
+18:57:39,264 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_es_ES.ftl"): Not found
+18:57:39,265 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_es.ftl"): Not found
+18:57:39,266 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:57:39,266 DEBUG cache:45 - Loading template for "Extent.ftl"("es_ES", UTF-8, parsed) from "jar:file:/C:/Users/karlo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
