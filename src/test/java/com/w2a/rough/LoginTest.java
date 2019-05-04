@@ -15,7 +15,7 @@ public class LoginTest {
 		// TODO Auto-generated method stub
 		
 	
-		
+		//Using EGit plugin
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
 		ZohoAppPage zp = lp.doLogin("trainer@way2automation.com", "Selenium@123");
